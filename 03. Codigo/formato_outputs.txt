@@ -1,0 +1,6 @@
+DATA PREPARATION:
+		Output:		dataset_pre_procesado.csv
+
+MODELING:
+		Output:		Modelo_{Iniciales del Modelo}.pkl
+		Ejemplo:	Modelo_DT.pkl
